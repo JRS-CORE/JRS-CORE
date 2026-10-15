@@ -34,7 +34,7 @@ JRS Core is developed by the **JRS TEAM**, a group of volunteers who build, main
 | Member | Role |
 |---|---|
 | **ALFIE** | Founder and Lead Developer |
-| **JRS** | Developer |
+| **JRS** | Founder and Lead Developer |
 | **GM** | Project Manager |
 
 ## Contributors
