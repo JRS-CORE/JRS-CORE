@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="jrs-core-intro.gif" alt="JRS Core" width="100%">
+<img src="jrs-core-intro-v2.gif" alt="JRS Core" width="100%">
 
 # JRS Core
 
